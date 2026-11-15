@@ -13,9 +13,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi 👋
-```mermaid
-graph TD
-    A[Start] --> B[Click Me]
-    click B "https://github.com" "Go to GitHub"
+```math
+\(\sqrt{3x-1}+\)(1+x)^2
+```
+
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid cube_corner
+```
+
+```geojson
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [106.8456, -6.2088]
+  },
+  "properties": {
+    "name": "Jakarta"
+  }
+}
 ```
 
