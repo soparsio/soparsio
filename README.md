@@ -30,11 +30,6 @@ Here are some ideas to get you started:
   }
 }
 ```
-
-
--->
-### -H
-
 ```stl
 solid low_poly_cat
   facet normal 0.00 0.00 -1.00
@@ -515,5 +510,6 @@ solid low_poly_cat
   endfacet
 ```
 
-
-
+-->
+### -H
+---
