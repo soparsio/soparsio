@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi 👋
+```mermaid
+graph TD
+    A[Start] --> B[Click Me]
+    click B "https://github.com" "Go to GitHub"
+```
+
