@@ -510,9 +510,6 @@ solid low_poly_cat
   endfacet
 ```
 
--->
-### -H
----
 ```mermaid
 mindmap
   root((Core Note))
@@ -524,4 +521,7 @@ mindmap
         Deep Link
     Topic C
 ```
+
+-->
+### ...
 
