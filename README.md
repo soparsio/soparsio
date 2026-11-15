@@ -513,3 +513,15 @@ solid low_poly_cat
 -->
 ### -H
 ---
+```mermaid
+mindmap
+  root((Core Note))
+    Topic A
+      Sub-note 1
+      Sub-note 2
+    Topic B
+      Sub-note 3
+        Deep Link
+    Topic C
+```
+
